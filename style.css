@@ -1,0 +1,9 @@
+body {
+    background-color: violet;
+}
+div {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    width: 7px;
+}
+#main-header {font-size: medium;}
